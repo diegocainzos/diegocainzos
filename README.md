@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @diegocainzos
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently programming in Java, C and Python
+- 📫 How to reach me diego.cainzos@udc.es
 
 <!---
 diegocainzos/diegocainzos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
