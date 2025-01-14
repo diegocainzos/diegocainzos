@@ -5,10 +5,6 @@
    
  ## <p align="center">👋 Hello, I'm Diego! </p> 
 
-
-
-  <p>Computer Engineer with experience in software development and machine learning. I have international experience and a high level of English proficiency. Availability for immediate start. <a target="_blank" href="https://www.linkedin.com/in/diegocainzos">Linkedin</a></p> 
-
   <h2 style="background-color: #4CAF50; color: white; padding: 10px; border-radius: 5px;">🔧 Skills</h2>
   <ul style="list-style-type: none; padding-left: 0;">
     <li><strong>Programming Languages:</strong> PHP, Python, JavaScript</li>
