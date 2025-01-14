@@ -43,6 +43,7 @@
   <h2 style="background-color: #4CAF50; color: white; padding: 10px; border-radius: 5px;">📂 Projects</h2>
   <ul style="list-style-type: none; padding-left: 0;">
     <li><strong><a href="https://github.com/diegocainzos/music-genre-classification-tfg" target="_blank" style="color: #1e88e5;">Music Genre Classifier</a></strong>: Classifies the genre of any song within 10 genres with 90% accuracy. Presented as bachelor's thesis. Utilized audio processing techniques and mel spectrograms.</li>
+     <li><strong><a href="https://github.com/diegocainzos/kana-kun-quiz" target="_blank">Hiragana & Katakana Quiz App</a></strong>: A single-page application (SPA) designed for learning and practicing Japanese Hiragana and Katakana characters.</li>
   </ul>
 
   <h2 style="background-color: #4CAF50; color: white; padding: 10px; border-radius: 5px;">🎓 Education</h2>
