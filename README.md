@@ -1,59 +1,41 @@
-
-   <p align="center">
-  <img src="https://i.imgur.com/I9OWQYm.png" style="width: 250px" />
+<p align="center">
+  <img src="https://i.imgur.com/I9OWQYm.png" width="250" />
 </p>
-   
- ## <p align="center">👋 Hello, I'm Diego! </p> 
 
-  <ul style="list-style-type: none; padding-left: 0;">
-    <li><strong>Programming Languages:</strong> Python, JavaScript</li>
-    <li><strong>Frameworks/Libraries:</strong> Flask, React, Node.js, PyTorch, Pandas</li>
-    <li><strong>Databases:</strong> SQL</li>
-    <li><strong>Cloud Platforms:</strong> Azure</li>
-    <li><strong>Tools:</strong> Git, Docker, Jira</li>
-  </ul>
+## <p align="center">👋 Hello, I'm Diego!</p>
 
-  <h2 style="background-color: #4CAF50; color: white; padding: 10px; border-radius: 5px;">📚 Experience</h2>
-  <div style="margin-bottom: 20px;">
-    <h3>Software Engineer Internship | Click IT Timis</h3>
-    <p><em>February 2022 - June 2022</em></p>
-    <ul>
-      <li>First work experience through a paid internship under the Erasmus program.</li>
-      <li>Developed an educational web application within an international team using React.js and PHP, integrating MySQL, RESTful APIs, and version control with Git.</li>
-      <li>Contributed to testing processes using PHPUnit.</li>
-    </ul>
-  </div>
-  <div style="margin-bottom: 20px;">
-    <h3>Junior Software Engineer | Traffic and Road Safety Research Institute, University of Valencia</h3>
-    <p><em>October 2023 - June 2024</em></p>
-    <ul>
-      <li>Led analysis and optimization of Valencia’s public bus network using OpenStreetMaps API, Python, Pandas, GeoPandas, and Matplotlib.</li>
-      <li>Delivered proposals to adjust two bus routes, backed by precise data and visualizations presented in Power BI.</li>
-    </ul>
-  </div>
-  <div style="margin-bottom: 20px;">
-    <h3>Full Stack Junior Developer | Citystock</h3>
-    <p><em>October 2024 - December 2024</em></p>
-    <ul>
-      <li>Designed and developed an advanced logistics module for an e-commerce platform, using PHP and Symfony framework.</li>
-      <li>Optimized shipment tracking and inventory management.</li>
-    </ul>
-  </div>
+AI Engineer with a hybrid profile spanning software development, Data Science, and systems deployment. Based in Valencia, Spain. Projects, live demos, and deployed AI architectures at [diegocainzos.cv](https://diegocainzos.cv).
 
-  <h2 style="background-color: #4CAF50; color: white; padding: 10px; border-radius: 5px;">📂 Projects</h2>
-  <ul style="list-style-type: none; padding-left: 0;">
-    <li><strong><a href="https://github.com/diegocainzos/music-genre-classification-tfg" target="_blank" style="color: #1e88e5;">Music Genre Classifier</a></strong>: Classifies the genre of any song within 10 genres with 90% accuracy. Presented as bachelor's thesis. Utilized audio processing techniques and mel spectrograms.</li>
-     <li><strong><a href="https://github.com/diegocainzos/kana-kun-quiz" target="_blank">Hiragana & Katakana Quiz App</a></strong>: A single-page application (SPA) designed for learning and practicing Japanese Hiragana and Katakana characters.</li>
-     <li><strong><a href="https://github.com/yourusername/grandslamvision" target="_blank" style="color: #1e88e5;">GrandSlamVision</a></strong>: A real-time tennis ball and player detection system using YOLO for sports analytics, automated refereeing, and performance analysis. Features include ball speed calculation, player tracking, and keypoint detection.</li>
-  </ul>
+## 💼 Experience
 
-  <h2 style="background-color: #4CAF50; color: white; padding: 10px; border-radius: 5px;">🎓 Education</h2>
-  <ul style="list-style-type: none; padding-left: 0;">
-    <li><strong>Bachelor of Science in Computer Science</strong> | University of A Coruña | 2020 - 2024</li>
-    <li><strong>Bachelor of Science in Computer Science</strong> | West University of Timisoara | 2022</li>
-  </ul>
+**AI Engineer — Capgemini** · *Oct 2026 – present*
 
-  <div style="text-align: center; margin-top: 20px;">
-    <p style="font-style: italic; color: #2e7d32;">"Passionate about innovation, collaboration, and building impactful solutions."</p>
-  </div>
-</div>
+**AI Engineer — Navertia** · *Apr 2026 – Oct 2026* · Valencia (Hybrid)
+- Designed and deployed to production an end-to-end bidirectional customer-service voice agent (Pipecat, Deepgram, ElevenLabs, Gemini API) to relieve saturated phone lines.
+- Deployed local infrastructure with vLLM, SGLang, llama.cpp, and Docker on two NVIDIA RTX 5090 GPUs to serve MiniMax M3, Gemma 4, and DeepSeek V4, RAG systems, and private Open WebUI portals.
+- Built Python automations that removed manual workload from internal processes.
+- Developing an invoice pipeline: locally served OCR, accounting-field extraction, and Microsoft Dynamics 365 Business Central integration.
+
+**Data Analyst Intern — Traffic and Road Safety Institute, Universitat de València** · *Oct 2023 – Jun 2024*
+- Processed, cleaned, and analyzed data with Python for institutional mobility and road-safety projects.
+
+## 📂 Projects
+
+- **[Football Bias](https://github.com/diegocainzos/ElSesgoDelFutbol)** ([live](https://elsesgodelfutbol.diegocainzos.cv)): end-to-end NLP pipeline to ingest, transform, and analyze sports-news text. Python, AWS, Docker, Streamlit.
+- **[Music Genre Classifier](https://github.com/diegocainzos/music-genre-classification-tfg)**: bachelor's thesis, classifies songs into 10 genres using mel spectrograms ([PDF](https://github.com/diegocainzos/music-genre-classification-tfg/blob/main/tfg_diego_garcia.pdf)).
+- **[Hiragana & Katakana Quiz](https://github.com/diegocainzos/kana-kun-quiz)**: SPA for practicing Japanese kana.
+
+## 🎓 Education
+
+- **MS in Natural Language Processing** — UNED · 2025 – present (coursework completed, thesis pending)
+- **BS in Computer Science (Data and Software)** — Universidade da Coruña · 2020 – 2024
+
+## 🛠 Skills
+
+- **AI/ML:** PyTorch, Hugging Face, scikit-learn, NLP, RAG, vLLM, LangGraph, LangChain
+- **Engineering:** Python, Docker, PostgreSQL, REST, Linux, Git, AWS, Open WebUI
+- **Data:** SQL, pandas, Azure, Streamlit, Power BI
+
+**Languages:** Spanish (native) · English (C1) · Portuguese (B2) · Italian (A2)
+
+[LinkedIn](https://linkedin.com/in/diegocainzos) · [Website](https://diegocainzos.cv)
